@@ -1,13 +1,15 @@
 ---
-title: "Hugo Travelify Theme Features"
-date: "2016-06-28T13:07:31+02:00"
-tags: ["ipsum"]
-categories: ["lorem"]
-menu: ""
+title: Hugo Travelify Theme Features
+date: 2016-06-28T13:07:31+02:00
+tags:
+- ipsum
+categories:
+- lorem
+menu:
+  '':
+    weight: 3
+
 ---
-
-
-
 **Hugo-Travelify-Theme** is the Hugo version of the Wordpress theme - Travelify . The source code was adapted from *digitalcraftsman*'s Icarus theme with a few changes for additional features (Even this README is a fork from his original theme README :)).
 
 <!--more-->

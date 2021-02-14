@@ -1,13 +1,14 @@
 +++
-title = "Go is for lovers"
-date = "2015-09-17T13:47:08+02:00"
 author = "test2"
-tags = ["go"]
-categories = ["programming"]
-menu = ""
 banner = "banners/featured-5.jpg"
-+++
+categories = ["programming"]
+date = 2015-09-17T11:47:08Z
+tags = ["go"]
+title = "Go is for lovers"
+[menu.]
+weight = 5
 
++++
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of

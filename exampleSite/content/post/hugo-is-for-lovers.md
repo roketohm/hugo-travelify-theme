@@ -1,15 +1,16 @@
 +++
-title = "Hugo is for lovers"
-date = "2015-08-03T13:39:46+02:00"
 author = "test1"
-tags = ["hugo"]
-categories = ["pseudo"]
-menu = ""
 banner = "banners/7148951717_9bbf185db3_h-1018x460.jpg"
-slider = true
+categories = ["pseudo"]
+date = 2015-08-03T11:39:46Z
 disable_profile = true
-+++
+slider = true
+tags = ["hugo"]
+title = "Hugo is for lovers"
+[menu.]
+weight = 4
 
++++
 ## Step 1. Install Hugo
 
 Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the

@@ -1,12 +1,13 @@
 +++
-title = "This post has no body – almost"
-date = "2017-05-30T16:56:43+02:00"
-tags = ["theme", "hugo", "static sites"]
-categories = ["New York", "Other Destinations"]
-menu = ""
 banner = "banners/Spain-Plaza-de-Cibeles-Madrid-1018x460.jpg"
-+++
+categories = ["New York", "Other Destinations"]
+date = 2017-05-30T14:56:43Z
+tags = ["theme", "hugo", "static sites"]
+title = "This post has no body – almost"
+[menu.]
+weight = 1
 
++++
 Ut vel lectus et nulla elementum dapibus. Cras turpis dui, fermentum at tincidunt eu, placerat quis urna. In orci justo, condimentum eget consectetur nec, mollis sit amet nisi. Nulla id turpis dolor, non gravida augue. Phasellus quis justo consectetur tellus ultrices tincidunt.
 
 {{< vimeo 63186969 >}}
